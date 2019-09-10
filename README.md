@@ -1,5 +1,5 @@
 # DELANI STUDIOS
-Porfolio website for Delani Studios, a software development company.
+Portfolio website for Delani Studios, a software development company.
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for testing purposes.  
