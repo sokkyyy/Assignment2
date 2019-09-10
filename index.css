@@ -178,3 +178,12 @@ textarea {
     font-weight: bold;
     padding-top: 50px;
 }
+.submit-button {
+    background: none;
+    color: white; 
+    border: 2px solid white;
+    width: 30%;
+    height: 50px;
+    margin-left: 30%;
+    margin-top: 40px;
+}
