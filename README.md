@@ -1,32 +1,22 @@
-# Webpack Frontend Starterkit
+# DELANI STUDIOS
+Porfolio website for Delani Studios, a software development company.
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/wbkd/webpack-starter.svg)](https://greenkeeper.io/)
+## Getting Started
+These instructions will get you a copy of the project up and running on your local machine for testing purposes.  
 
-A lightweight foundation for your next webpack based frontend project.
+### Prerequisites
+You need to a web browser, preferably: 
+* Chrome
+* Mozilla Firefox
 
+### Running 
+Clone the repository or download it then open "index.html" in your preferred browser.  
 
-### Installation
+## Built With
+* HTML
+* CSS
+* Bootstrap
+* jQuery
 
-```
-npm install
-```
-
-### Start Dev Server
-
-```
-npm start
-```
-
-### Build Prod Version
-
-```
-npm run build
-```
-
-### Features:
-
-* ES6 Support via [babel](https://babeljs.io/) (v7)
-* SASS Support via [sass-loader](https://github.com/jtangelder/sass-loader)
-* Linting via [eslint-loader](https://github.com/MoOx/eslint-loader)
-
-When you run `npm run build` we use the [mini-css-extract-plugin](https://github.com/webpack-contrib/mini-css-extract-plugin) to move the css to a separate file. The css file gets included in the head of the `index.html`.
+## Author
+* Raymond Ndegwa
